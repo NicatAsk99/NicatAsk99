@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="banner-ezgif.com-optimize.gif" width="700"/>
+  <img src="banner-ezgif.com-optimize.gif" width="500"/>
 </p>
 
 
