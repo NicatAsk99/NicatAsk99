@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/7FrOU9tPbgAZtxV5mb/giphy.gif" width="900"/>
+  <img src="banner-ezgif.com-optimize.gif" width="900"/>
 </p>
 
 
