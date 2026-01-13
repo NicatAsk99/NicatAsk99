@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner-ezgif.com-optimize.gif" width="900"/>
+  <img src="banner-ezgif.com-optimize.gif" width="700"/>
 </p>
 
 
