@@ -1,12 +1,17 @@
-<p align="center">
-  <img src="banner-ezgif.com-optimize.gif" width="700"/>
-</p>
-
-<h2 align="center">💻 F Cybersecurity 🛡️</h2>
+<h2 align="center">💻 FCybersecurity 🛡️</h2>
 
 <p align="center">
   <b>Cybersecurity</b> >
 </p>
+
+
+<p align="center">
+  <img src="banner-ezgif.com-optimize.gif" width="700"/>
+</p>
+
+
+
+
 ## Hi there 👋
 
 
