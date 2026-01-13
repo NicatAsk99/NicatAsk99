@@ -1,4 +1,4 @@
-<h2 align="center">💻 FCybersecurity 🛡️</h2>
+<h2 align="center">💻 Cybersecurity 🛡️</h2>
 
 <p align="center">
   <b>Cybersecurity</b> >
