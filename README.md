@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="banner-ezgif.com-optimize.gif" width="500"/>
+  <img src="GIF by Vulture.com.gif" width="500"/>
 </p>
 
 
